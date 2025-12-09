@@ -1,0 +1,24 @@
+code,name,rating,n_rating,price,hours,count
+FD-101,C++,4.6,720,980,20,44000
+FD-102,Python with practical examples,4.6,611,840,13,38000
+FD-103,Python for teenagers_part1,4.7,147,114,7,2700
+FD-104,Python for teenagers_part2,4.9,20,1090,7,1000
+FD-105,Additional Python- Code Optimization,4.6,43,1180,13,4700
+FD-106,JavaScript_Introductory to advanced,4.4,116,990,9,19000
+FD-107,Assembly language programming,4.5,36,1080,10,5000
+FD-108,Qt Framework for C++,4.3,44,1080,9,3500
+FD-109,Data structures,4.6,166,980,10,18000
+FD-110,Data structures with C++,4.6,65,1280,23,6000
+FD-111,Data structures with Python,4.7,69,980,11,3500
+FD-112,Advanced Data structures,5.0,3,513,8,2000
+FD-113,Object-oriented programming in Python,4.7,95,1080,7,9000
+FD-114,Advanced C++ Programming - Object Orientation,4.8,100,990,8,16000
+FD-115,Numpy_matplotlib,4.7,17,1590,5,1000
+FD-116,Data analysis and preparation with Python,4.5,66,1080,10,6000
+FD-117,Mathematics for machine learning with Python,4.7,86,1080,8,2500
+FD-118,Machine Learning with Python_part1,4.6,179,1080,17,12000
+FD-119,Machine Learning with Python_part2,4.6,53,1080,11,8500
+FD-120,Algorithm design,4.4,22,1180,8,5800
+FD-121,Databases,4.6,178,980,8,18000
+FD-122,Operating system,4.6,170,980,11,13000
+FD-123,Software engineering,4.1,34,1180,12,4500
